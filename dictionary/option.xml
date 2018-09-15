@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" label="label" max_length="40" name="option" type="collection">
+        <element label="New Audio" max_length="40" name="x_58872_needit_u_audio_3" type="audio"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="New Choice" max_length="40" name="x_58872_needit_u_choice_1" type="string">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="New Choice" max_length="40" name="x_58872_needit_u_choice_4" type="string">
+            <choice/>
+        </element>
+        <element label="New Data Structure" max_length="800" name="x_58872_needit_u_data_structure_2" type="data_structure"/>
+        <element label="New Data Structure" max_length="800" name="x_58872_needit_u_data_structure_5" type="data_structure"/>
+        <element label="New Due Date" max_length="40" name="x_58872_needit_u_due_date_8" type="due_date"/>
+        <element label="New Date" max_length="40" name="x_58872_needit_u_glide_date_6" type="glide_date"/>
+        <element label="New Date/Time" max_length="40" name="x_58872_needit_u_glide_date_time_7" type="glide_date_time"/>
+    </element>
+</database>
